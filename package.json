@@ -34,8 +34,8 @@
   ],
   "main": "./index.js",
   "dependencies": {
-    "passport-oauth2": "^1.4.0",
-    "pkginfo": "0.2.x"
+    "passport-oauth2": "^1.6.0",
+    "pkginfo": "^0.4.0"
   },
   "devDependencies": {
     "vows": "0.6.x"
