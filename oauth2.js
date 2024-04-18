@@ -1,7 +1,6 @@
 /**
  * Module dependencies.
  */
-var jwt = require('jsonwebtoken')
 var OAuth2Strategy = require("passport-oauth2")
 var InternalOAuthError = OAuth2Strategy.InternalOAuthError
 

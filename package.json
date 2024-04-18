@@ -1,6 +1,6 @@
 {
   "name": "passport-twitch-new",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Twitch (OAuth) authentication strategies using the new Twitch API for Passport.",
   "keywords": [
     "passport",
@@ -34,15 +34,14 @@
   ],
   "main": "./index.js",
   "dependencies": {
-    "jsonwebtoken": "^8.2.1",
-    "passport-oauth2": "^1.4.0",
-    "pkginfo": "0.2.x"
+    "passport-oauth2": "^1.6.0",
+    "pkginfo": "^0.4.0"
   },
   "devDependencies": {
-    "vows": "0.6.x"
+    "vows": "0.8.x"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=0.14.0"
   },
   "maintainers": [
     {
